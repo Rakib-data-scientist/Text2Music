@@ -128,7 +128,7 @@ torch==2.0.1
 torchaudio==2.0.2
 torchmetrics==1.1.1
 tornado==6.3.3
-tqdm==4.66.1
+tqdm==4.66.3
 transformers==4.38.0
 treetable==0.2.5
 typer==0.7.0
