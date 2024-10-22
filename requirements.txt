@@ -115,7 +115,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.4
 srsly==2.4.7
 starlette==0.40.0
-streamlit==1.30.0
+streamlit==1.37.0
 submitit==1.4.5
 sympy==1.12
 tenacity==8.2.3
